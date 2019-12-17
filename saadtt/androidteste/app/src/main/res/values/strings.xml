@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ks01aula0309</string>
+    <string name="hint_txtTelefone">informe seu telefone</string>
+    <string name="hint_txtNome">Informe seu nome</string>
+    <string name="labelExibir">Exibir</string>
+    <string name="digite_seu_nome">Digite Seu Nome</string>
+    <string name="digite_seu_e_mail">Digite seu E-mail</string>
+
+</resources>
